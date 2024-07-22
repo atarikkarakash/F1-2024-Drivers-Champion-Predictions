@@ -1,10 +1,10 @@
 # f1_ml_project
 
-## Formula 1 Expected Overtakes Project
+![Project Image](mv1.png)
+
+## Formula 1 2024 Champion Prediction Project
 
 A machine learning model that calculates what the results of the remaining 12 races will be with the data of Formula 1 races and fast laps held until July 2024.
-
-![Project Image](mv1.png)
 
 ## Data
 
